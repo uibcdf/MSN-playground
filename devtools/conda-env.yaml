@@ -1,0 +1,11 @@
+channels:
+  - uibcdf
+  - conda-forge
+dependencies:
+  - python =3.12
+  - mamba
+  - networkx
+  - matplotlib
+  - jupyter
+  - molsysmt
+  - openmm
